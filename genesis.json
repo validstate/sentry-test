@@ -1,0 +1,44 @@
+{
+  "genesis_time": "2018-03-08T14:30:01Z",
+  "chain_id": "sentry-test",
+  "validators": [
+    {
+      "name": "validator-a",
+      "pub_key": {
+        "data": "97D59FFF2FB961E5D39E35115149EEA3C23BCD8273F2E4B4A0737E4FB8F03875",
+        "type": "ed25519"
+      },
+      "power": 1000
+    },
+    {
+      "name": "validator-b",
+      "pub_key": {
+        "data": "570FA1E016DA3C496EDCA561EE2BB5A7F9E3E640F9A4FEE7B8E49E9DA3B0B18C",
+        "type": "ed25519"
+      },
+      "power": 1000
+    }
+  ],
+  "app_options": {
+    "accounts": [
+      {
+        "name": "nickray",
+        "address": "17307FAB613EB9FB20459CF92346E07229BBC6D8",
+        "coins": [
+          {
+            "denom": "fermion",
+            "amount": 10000
+          }
+        ]
+      }
+    ],
+    "plugin_options": [
+      "coin/issuer",
+      {
+        "app": "sigs",
+        "addr": "B01C264BFE9CBD45458256E613A6F07061A3A6B6"
+      }
+    ]
+  },
+  "app_hash": ""
+}

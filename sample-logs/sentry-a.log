@@ -1,0 +1,52 @@
+E[03-08|15:00:19.794] Failed to dial peer                          module=p2p address=127.0.0.1:9031 err="Error creating peer: dial tcp 127.0.0.1:9031: getsockopt: connection refused"
+E[03-08|15:00:19.794] Error dialing seed                           module=p2p err="Error creating peer: dial tcp 127.0.0.1:9031: getsockopt: connection refused"
+E[03-08|15:00:20.534] Failed to add peer                           module=p2p address=127.0.0.1:9030 err="Ignoring connection from self"
+E[03-08|15:00:20.534] Error dialing seed                           module=p2p err="Ignoring connection from self"
+I[03-08|15:00:34.972] Executed block                               module=state height=1 validTxs=0 invalidTxs=0
+I[03-08|15:00:34.976] Committed state                              module=state height=1 txs=0 appHash=58F138B860752B33DD4F62E26275D7420C6BC066
+I[03-08|15:00:37.032] Executed block                               module=state height=2 validTxs=0 invalidTxs=0
+I[03-08|15:00:37.037] Committed state                              module=state height=2 txs=0 appHash=58F138B860752B33DD4F62E26275D7420C6BC066
+E[03-08|15:00:42.602] Connection failed @ recvRoutine (reading byte) module=p2p peer=127.0.0.1:38538 conn=MConn{127.0.0.1:38538} err=EOF
+E[03-08|15:00:42.602] Stopping peer for error                      module=p2p peer="Peer{MConn{127.0.0.1:38538} 192.168.79.160:9040 in}" err=EOF
+E[03-08|15:00:42.603] MConnection flush failed                     module=p2p peer=127.0.0.1:38538 err="write tcp 127.0.0.1:9030->127.0.0.1:38538: use of closed network connection"
+I[03-08|15:00:53.993] Executed block                               module=state height=3 validTxs=0 invalidTxs=0
+I[03-08|15:00:53.997] Committed state                              module=state height=3 txs=0 appHash=58F138B860752B33DD4F62E26275D7420C6BC066
+I[03-08|15:01:11.101] Executed block                               module=state height=4 validTxs=0 invalidTxs=0
+I[03-08|15:01:11.105] Committed state                              module=state height=4 txs=0 appHash=58F138B860752B33DD4F62E26275D7420C6BC066
+I[03-08|15:01:27.989] Executed block                               module=state height=5 validTxs=0 invalidTxs=0
+I[03-08|15:01:27.993] Committed state                              module=state height=5 txs=0 appHash=58F138B860752B33DD4F62E26275D7420C6BC066
+E[03-08|15:01:42.602] Connection failed @ recvRoutine (reading byte) module=p2p peer=127.0.0.1:38540 conn=MConn{127.0.0.1:38540} err=EOF
+E[03-08|15:01:42.602] Stopping peer for error                      module=p2p peer="Peer{MConn{127.0.0.1:38540} 192.168.79.160:9040 in}" err=EOF
+I[03-08|15:01:45.114] Executed block                               module=state height=6 validTxs=0 invalidTxs=0
+I[03-08|15:01:45.117] Committed state                              module=state height=6 txs=0 appHash=58F138B860752B33DD4F62E26275D7420C6BC066
+I[03-08|15:02:01.972] Executed block                               module=state height=7 validTxs=0 invalidTxs=0
+I[03-08|15:02:01.975] Committed state                              module=state height=7 txs=0 appHash=58F138B860752B33DD4F62E26275D7420C6BC066
+I[03-08|15:02:19.170] Executed block                               module=state height=8 validTxs=0 invalidTxs=0
+I[03-08|15:02:19.173] Committed state                              module=state height=8 txs=0 appHash=58F138B860752B33DD4F62E26275D7420C6BC066
+I[03-08|15:02:36.054] Executed block                               module=state height=9 validTxs=0 invalidTxs=0
+I[03-08|15:02:36.058] Committed state                              module=state height=9 txs=0 appHash=58F138B860752B33DD4F62E26275D7420C6BC066
+E[03-08|15:02:42.603] Connection failed @ recvRoutine (reading byte) module=p2p peer=127.0.0.1:38554 conn=MConn{127.0.0.1:38554} err=EOF
+E[03-08|15:02:42.603] Stopping peer for error                      module=p2p peer="Peer{MConn{127.0.0.1:38554} 192.168.79.160:9040 in}" err=EOF
+I[03-08|15:02:53.271] Executed block                               module=state height=10 validTxs=0 invalidTxs=0
+I[03-08|15:02:53.274] Committed state                              module=state height=10 txs=0 appHash=58F138B860752B33DD4F62E26275D7420C6BC066
+I[03-08|15:03:10.147] Executed block                               module=state height=11 validTxs=0 invalidTxs=0
+I[03-08|15:03:10.150] Committed state                              module=state height=11 txs=0 appHash=58F138B860752B33DD4F62E26275D7420C6BC066
+I[03-08|15:03:27.339] Executed block                               module=state height=12 validTxs=0 invalidTxs=0
+I[03-08|15:03:27.343] Committed state                              module=state height=12 txs=0 appHash=58F138B860752B33DD4F62E26275D7420C6BC066
+E[03-08|15:03:42.602] Connection failed @ recvRoutine (reading byte) module=p2p peer=127.0.0.1:38558 conn=MConn{127.0.0.1:38558} err=EOF
+E[03-08|15:03:42.602] Stopping peer for error                      module=p2p peer="Peer{MConn{127.0.0.1:38558} 192.168.79.160:9040 in}" err=EOF
+E[03-08|15:03:42.603] MConnection flush failed                     module=p2p peer=127.0.0.1:38558 err="write tcp 127.0.0.1:9030->127.0.0.1:38558: use of closed network connection"
+I[03-08|15:03:44.369] Executed block                               module=state height=13 validTxs=0 invalidTxs=0
+I[03-08|15:03:44.373] Committed state                              module=state height=13 txs=0 appHash=58F138B860752B33DD4F62E26275D7420C6BC066
+I[03-08|15:04:01.578] Executed block                               module=state height=14 validTxs=0 invalidTxs=0
+I[03-08|15:04:01.582] Committed state                              module=state height=14 txs=0 appHash=58F138B860752B33DD4F62E26275D7420C6BC066
+E[03-08|15:04:12.601] Connection failed @ recvRoutine (reading byte) module=p2p peer=127.0.0.1:38562 conn=MConn{127.0.0.1:38562} err=EOF
+E[03-08|15:04:12.602] Stopping peer for error                      module=p2p peer="Peer{MConn{127.0.0.1:38562} 192.168.79.160:9040 in}" err=EOF
+E[03-08|15:04:12.602] MConnection flush failed                     module=p2p peer=127.0.0.1:38562 err="write tcp 127.0.0.1:9030->127.0.0.1:38562: use of closed network connection"
+I[03-08|15:04:18.477] Executed block                               module=state height=15 validTxs=0 invalidTxs=0
+I[03-08|15:04:18.482] Committed state                              module=state height=15 txs=0 appHash=58F138B860752B33DD4F62E26275D7420C6BC066
+I[03-08|15:04:35.636] Executed block                               module=state height=16 validTxs=0 invalidTxs=0
+I[03-08|15:04:35.640] Committed state                              module=state height=16 txs=0 appHash=58F138B860752B33DD4F62E26275D7420C6BC066
+I[03-08|15:04:52.528] Executed block                               module=state height=17 validTxs=0 invalidTxs=0
+I[03-08|15:04:52.532] Committed state                              module=state height=17 txs=0 appHash=58F138B860752B33DD4F62E26275D7420C6BC066
+captured interrupt, exiting...

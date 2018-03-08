@@ -1,0 +1,45 @@
+I[03-08|15:00:35.176] Executed block                               module=state height=1 validTxs=0 invalidTxs=0
+I[03-08|15:00:35.179] Committed state                              module=state height=1 txs=0 appHash=58F138B860752B33DD4F62E26275D7420C6BC066
+I[03-08|15:00:37.030] Executed block                               module=state height=2 validTxs=0 invalidTxs=0
+I[03-08|15:00:37.034] Committed state                              module=state height=2 txs=0 appHash=58F138B860752B33DD4F62E26275D7420C6BC066
+E[03-08|15:00:43.619] Connection failed @ recvRoutine              module=p2p peer=127.0.0.1:9031 conn=MConn{127.0.0.1:9031} err="Unknown channel 0"
+E[03-08|15:00:43.619] Stopping peer for error                      module=p2p peer="Peer{MConn{127.0.0.1:9031} 192.168.79.160:9031 out}" err="Unknown channel 0"
+I[03-08|15:00:54.154] Executed block                               module=state height=3 validTxs=0 invalidTxs=0
+I[03-08|15:00:54.157] Committed state                              module=state height=3 txs=0 appHash=58F138B860752B33DD4F62E26275D7420C6BC066
+I[03-08|15:01:10.950] Executed block                               module=state height=4 validTxs=0 invalidTxs=0
+I[03-08|15:01:10.961] Committed state                              module=state height=4 txs=0 appHash=58F138B860752B33DD4F62E26275D7420C6BC066
+I[03-08|15:01:28.167] Executed block                               module=state height=5 validTxs=0 invalidTxs=0
+I[03-08|15:01:28.170] Committed state                              module=state height=5 txs=0 appHash=58F138B860752B33DD4F62E26275D7420C6BC066
+E[03-08|15:01:43.619] Connection failed @ recvRoutine              module=p2p peer=127.0.0.1:9031 conn=MConn{127.0.0.1:9031} err="Unknown channel 0"
+E[03-08|15:01:43.620] Stopping peer for error                      module=p2p peer="Peer{MConn{127.0.0.1:9031} 192.168.79.160:9031 out}" err="Unknown channel 0"
+I[03-08|15:01:44.830] Executed block                               module=state height=6 validTxs=0 invalidTxs=0
+I[03-08|15:01:44.833] Committed state                              module=state height=6 txs=0 appHash=58F138B860752B33DD4F62E26275D7420C6BC066
+I[03-08|15:02:02.189] Executed block                               module=state height=7 validTxs=0 invalidTxs=0
+I[03-08|15:02:02.193] Committed state                              module=state height=7 txs=0 appHash=58F138B860752B33DD4F62E26275D7420C6BC066
+I[03-08|15:02:18.975] Executed block                               module=state height=8 validTxs=0 invalidTxs=0
+I[03-08|15:02:18.978] Committed state                              module=state height=8 txs=0 appHash=58F138B860752B33DD4F62E26275D7420C6BC066
+I[03-08|15:02:36.275] Executed block                               module=state height=9 validTxs=0 invalidTxs=0
+I[03-08|15:02:36.279] Committed state                              module=state height=9 txs=0 appHash=58F138B860752B33DD4F62E26275D7420C6BC066
+E[03-08|15:02:43.619] Connection failed @ recvRoutine              module=p2p peer=127.0.0.1:9031 conn=MConn{127.0.0.1:9031} err="Unknown channel 0"
+E[03-08|15:02:43.619] Stopping peer for error                      module=p2p peer="Peer{MConn{127.0.0.1:9031} 192.168.79.160:9031 out}" err="Unknown channel 0"
+I[03-08|15:02:53.173] Executed block                               module=state height=10 validTxs=0 invalidTxs=0
+I[03-08|15:02:53.177] Committed state                              module=state height=10 txs=0 appHash=58F138B860752B33DD4F62E26275D7420C6BC066
+I[03-08|15:03:10.295] Executed block                               module=state height=11 validTxs=0 invalidTxs=0
+I[03-08|15:03:10.298] Committed state                              module=state height=11 txs=0 appHash=58F138B860752B33DD4F62E26275D7420C6BC066
+I[03-08|15:03:27.129] Executed block                               module=state height=12 validTxs=0 invalidTxs=0
+I[03-08|15:03:27.133] Committed state                              module=state height=12 txs=0 appHash=58F138B860752B33DD4F62E26275D7420C6BC066
+E[03-08|15:03:43.619] Connection failed @ recvRoutine              module=p2p peer=127.0.0.1:9031 conn=MConn{127.0.0.1:9031} err="Unknown channel 0"
+E[03-08|15:03:43.619] Stopping peer for error                      module=p2p peer="Peer{MConn{127.0.0.1:9031} 192.168.79.160:9031 out}" err="Unknown channel 0"
+I[03-08|15:03:44.586] Executed block                               module=state height=13 validTxs=0 invalidTxs=0
+I[03-08|15:03:44.590] Committed state                              module=state height=13 txs=0 appHash=58F138B860752B33DD4F62E26275D7420C6BC066
+I[03-08|15:04:01.383] Executed block                               module=state height=14 validTxs=0 invalidTxs=0
+I[03-08|15:04:01.387] Committed state                              module=state height=14 txs=0 appHash=58F138B860752B33DD4F62E26275D7420C6BC066
+E[03-08|15:04:13.619] Connection failed @ recvRoutine              module=p2p peer=127.0.0.1:9031 conn=MConn{127.0.0.1:9031} err="Unknown channel 0"
+E[03-08|15:04:13.620] Stopping peer for error                      module=p2p peer="Peer{MConn{127.0.0.1:9031} 192.168.79.160:9031 out}" err="Unknown channel 0"
+I[03-08|15:04:18.738] Executed block                               module=state height=15 validTxs=0 invalidTxs=0
+I[03-08|15:04:18.741] Committed state                              module=state height=15 txs=0 appHash=58F138B860752B33DD4F62E26275D7420C6BC066
+I[03-08|15:04:35.442] Executed block                               module=state height=16 validTxs=0 invalidTxs=0
+I[03-08|15:04:35.445] Committed state                              module=state height=16 txs=0 appHash=58F138B860752B33DD4F62E26275D7420C6BC066
+I[03-08|15:04:52.745] Executed block                               module=state height=17 validTxs=0 invalidTxs=0
+I[03-08|15:04:52.748] Committed state                              module=state height=17 txs=0 appHash=58F138B860752B33DD4F62E26275D7420C6BC066
+captured interrupt, exiting...
